@@ -5,23 +5,26 @@ humara khud ki css library
 
 This project focuses on DOM manipulation, pattern parsing, and building a reusable client-side library that mimics the behavior of utility-first CSS frameworks.
 
-## Installation
+## Usage via CDN
 
-```bash
-npm install
+```html
+add this to your html file
+<script
+	type="module"
+	src="https://cdn.jsdelivr.net/gh/arkogain/Talvindar_css_library/script.js"></script>
 ```
 
-## Usage
+## Usage via NPM
 
 ```bash
-npm run dev
+npm install talvindar_css_library
 ```
 
-## License
+# License
 
-MIT License
+MIT License © Talvindar 2026
 
-Copyright (c) 2021 Talvindar
+Copyright (c) 2026 Talvindar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

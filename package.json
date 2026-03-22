@@ -1,0 +1,26 @@
+{
+	"name": "talvindar_css_library",
+	"version": "1.0.0",
+	"description": "It's a lightweight utility-first CSS engine using JavaScript.\r humara khud ki css library",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/arkogain/Talvindar_css_library.git"
+	},
+	"keywords": [
+		"css",
+		"utility-first",
+		"lightweight",
+		"library"
+	],
+	"author": "Arko Gain",
+	"license": "ISC",
+	"type": "module",
+	"bugs": {
+		"url": "https://github.com/arkogain/Talvindar_css_library/issues"
+	},
+	"homepage": "https://github.com/arkogain/Talvindar_css_library#readme"
+}
