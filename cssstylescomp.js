@@ -9,7 +9,7 @@ export const styles = {
 	},
 
 	"chai-text-center": {
-		allign: "center",
+		textAllign: "center",
 	},
 
 	// Layout (display, position, margin, padding)

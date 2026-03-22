@@ -1,4 +1,4 @@
-import { styles } from "./cssstylescomp.js";
+import { styles } from "https://cdn.jsdelivr.net/gh/arkogain/Talvindar_css_library/cssstylescomp.js";
 
 const nodeList = document.querySelectorAll("*");
 
