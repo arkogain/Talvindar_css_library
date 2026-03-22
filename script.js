@@ -1,23 +1,4 @@
-const styles = {
-	"chai-fs-4": {
-		fontSize: "50px",
-	},
-	"chai-text-chai": {
-		color: "orange",
-	},
-
-	"d-flex": {
-		display: "flex",
-	},
-
-	jc: {
-		justifyContent: "center",
-	},
-
-	ic: {
-		alignItems: "center",
-	},
-};
+import { styles } from "./cssstylescomp.js";
 
 const nodeList = document.querySelectorAll("*");
 
